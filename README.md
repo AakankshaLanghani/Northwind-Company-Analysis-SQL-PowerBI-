@@ -1,1 +1,1 @@
-# Northwind-Company-Analysis-SQL-PowerBI-
+# Northwind-Company-Analysis-SQL and PowerBI
